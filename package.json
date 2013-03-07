@@ -1,0 +1,22 @@
+{
+  "name": "am",
+  "version": "0.0.1",
+  "description": "am is ark package management fully compatible with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": "",
+  "keywords": [
+    "ark",
+    "xinix"
+  ],
+  "author": "Jafar Shadiq <jafar@xinix.co.id>",
+  "license": "XINIX",
+  "dependencies": {
+    "async": "0.2.6",
+    "commander": "1.1.1",
+    "mkdirp": "0.3.5",
+    "colors": "~0.6.0"
+  }
+}
