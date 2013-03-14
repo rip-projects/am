@@ -14,11 +14,11 @@ exports['init new package anonimously'] = function(cb) {
   }, 1000);
 };
 
-exports['init with available dir path'] = function(cb) {
-  cb();
-};
+// exports['init with available dir path'] = function(cb) {
+//   cb();
+// };
 
-exports['init without unavailable dir path'] = function(cb) {
-  // console.log('uuuu');
-  cb();
-};
+// exports['init without unavailable dir path'] = function(cb) {
+//   // console.log('uuuu');
+//   cb();
+// };
